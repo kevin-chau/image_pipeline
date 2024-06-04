@@ -46,6 +46,7 @@
 #include <depth_image_proc/depth_traits.h>
 
 #include <sensor_msgs/point_cloud2_iterator.h>
+#include <opencv2/calib3d.hpp>
 
 namespace depth_image_proc {
 
